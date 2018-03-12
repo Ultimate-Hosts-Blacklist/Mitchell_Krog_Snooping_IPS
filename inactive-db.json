@@ -1,3 +1,5 @@
 {
-    "/home/travis/build/Ultimate-Hosts-Blacklist/Mitchell_Krog_Snooping_IPS/domains.list": {}
+    "/home/travis/build/Ultimate-Hosts-Blacklist/Mitchell_Krog_Snooping_IPS/domains.list": {
+        "to_test": []
+    }
 }
