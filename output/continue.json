@@ -1,8 +1,8 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/Mitchell_Krog_Snooping_IPS/domains.list": {
-        "number_of_down": 0,
-        "number_of_invalid": 0,
-        "number_of_tested": 8,
-        "number_of_up": 8
+        "down": 0,
+        "invalid": 0,
+        "tested": 8,
+        "up": 8
     }
 }
