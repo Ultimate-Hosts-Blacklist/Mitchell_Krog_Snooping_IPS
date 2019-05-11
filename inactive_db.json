@@ -1,10 +1,7 @@
 {
-    "/home/travis/build/Ultimate-Hosts-Blacklist/Mitchell_Krog_Snooping_IPS/domains.list": {
-        "1557433591": [
-            "107.150.63.173",
-            "120.205.13.109",
-            "173.208.148.219",
-            "192.237.253.227"
+    "api_call": {
+        "1557533387": [
+            "120.205.13.109"
         ],
         "to_test": []
     }

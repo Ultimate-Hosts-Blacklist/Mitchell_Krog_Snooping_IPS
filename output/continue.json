@@ -1,8 +1,14 @@
 {
-    "/home/travis/build/Ultimate-Hosts-Blacklist/Mitchell_Krog_Snooping_IPS/domains.list": {
-        "down": 0,
-        "invalid": 0,
-        "tested": 0,
-        "up": 0
-    }
+    "ACTIVE": [
+        "162.144.33.180",
+        "63.141.236.98",
+        "198.204.228.226",
+        "79.137.84.170"
+    ],
+    "INACTIVE": [
+        "192.237.253.227",
+        "107.150.63.173",
+        "173.208.148.219",
+        "120.205.13.109"
+    ]
 }
