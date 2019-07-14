@@ -1,8 +1,8 @@
 {
     "currently_under_test": "0",
     "days_until_next_test": 2,
-    "end_datetime": "Fri Jul 12 20:44:16 2019",
-    "end_epoch": 1562964256.192099,
+    "end_datetime": "Sun Jul 14 20:52:37 2019",
+    "end_epoch": 1563137557.299765,
     "name": "Mitchell_Krog_Snooping_IPS",
     "previous_stats": {
         "builds": 1,
@@ -18,6 +18,6 @@
         "whitelisted.list": 5
     },
     "raw_link": "",
-    "start_datetime": "Fri Jul 12 20:44:09 2019",
-    "start_epoch": 1562964249.016149
+    "start_datetime": "Sun Jul 14 20:52:30 2019",
+    "start_epoch": 1563137550.434011
 }
