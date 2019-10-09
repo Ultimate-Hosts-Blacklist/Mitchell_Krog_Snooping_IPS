@@ -1,23 +1,23 @@
 {
     "currently_under_test": "0",
     "days_until_next_test": 2,
-    "end_datetime": "Wed Oct  9 21:36:43 2019",
-    "end_epoch": 1570657003.96138,
+    "end_datetime": "Wed Oct  9 22:44:41 2019",
+    "end_epoch": 1570661081.893198,
     "name": "Mitchell_Krog_Snooping_IPS",
     "previous_stats": {
         "builds": 1,
         "clean.list": 3,
         "counter": {
-            "down": 5,
+            "down": 4,
             "invalid": 0,
-            "tested": 8,
+            "tested": 7,
             "up": 3
         },
-        "domains.list": 8,
+        "domains.list": 7,
         "volatile.list": 3,
         "whitelisted.list": 3
     },
     "raw_link": "",
-    "start_datetime": "Wed Oct  9 21:36:35 2019",
-    "start_epoch": 1570656995.757818
+    "start_datetime": "Wed Oct  9 22:44:40 2019",
+    "start_epoch": 1570661080.529705
 }
