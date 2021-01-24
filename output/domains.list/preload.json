@@ -1,0 +1,15 @@
+{
+    "abs_source": "/home/runner/work/Mitchell_Krog_Snooping_IPS/Mitchell_Krog_Snooping_IPS/domains.list",
+    "checker_type": "AVAILABILITY",
+    "destination": "domains.list",
+    "hash": "164fba4aa4868a974e3d6b6280a997aacaad926f93b0220cd439cc53",
+    "line_number": 9,
+    "output_dir": "/home/runner/work/Mitchell_Krog_Snooping_IPS/Mitchell_Krog_Snooping_IPS/output/domains.list",
+    "previous_hash": "164fba4aa4868a974e3d6b6280a997aacaad926f93b0220cd439cc53",
+    "rel_source": "domains.list",
+    "session_id": "bec8d6d6596ae09977c0b067",
+    "source": "/home/runner/work/Mitchell_Krog_Snooping_IPS/Mitchell_Krog_Snooping_IPS/domains.list",
+    "subject": "/home/runner/work/Mitchell_Krog_Snooping_IPS/Mitchell_Krog_Snooping_IPS/domains.list",
+    "subject_type": "domain",
+    "type": "file"
+}

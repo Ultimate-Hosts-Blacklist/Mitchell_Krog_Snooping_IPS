@@ -1,0 +1,4 @@
+idna_subject,checker_type,destination,source,tested_at
+107.150.63.173,AVAILABILITY,domains.list,/home/runner/work/Mitchell_Krog_Snooping_IPS/Mitchell_Krog_Snooping_IPS/domains.list,2021-01-24 10:18:26.906713
+173.208.148.219,AVAILABILITY,domains.list,/home/runner/work/Mitchell_Krog_Snooping_IPS/Mitchell_Krog_Snooping_IPS/domains.list,2021-01-24 10:18:34.249326
+192.237.253.227,AVAILABILITY,domains.list,/home/runner/work/Mitchell_Krog_Snooping_IPS/Mitchell_Krog_Snooping_IPS/domains.list,2021-01-24 10:18:38.347127

@@ -1,28 +1,18 @@
 {
     "currently_under_test": false,
+    "custom_pyfunceble_config": {},
     "days_until_next_test": 2,
-    "end_datetime": "2020-03-04T11:09:26.666082",
-    "end_epoch": 1583234173.223844,
+    "end_datetime": "2021-01-24T10:18:41.540302",
+    "end_epoch": 1611483521.540302,
     "name": "Mitchell_Krog_Snooping_IPS",
-    "previous_stats": {
-        "builds": 1,
-        "clean.list": 0,
-        "clean_list": 3,
-        "counter": {
-            "down": 0,
-            "invalid": 0,
-            "malicious": 0,
-            "sane": 0,
-            "tested": 0,
-            "up": 0,
-            "valid": 0
-        },
-        "domains.list": 8,
-        "ip.list": 3,
-        "volatile.list": 3,
-        "whitelisted.list": 3
+    "previous_end_datetime": "2020-03-04T11:09:26.666082",
+    "previous_end_epoch": 1583320166.666082,
+    "previous_start_datetime": "2021-01-24T01:45:30.991014",
+    "previous_start_epoch": 1611452730.991014,
+    "pyfunceble": {
+        "config": {}
     },
     "raw_link": "",
-    "start_datetime": "2021-01-24T01:45:30.991014",
-    "start_epoch": 1611452730.991014
+    "start_datetime": "2021-01-24T10:18:15.756272",
+    "start_epoch": 1611483495.756272
 }
