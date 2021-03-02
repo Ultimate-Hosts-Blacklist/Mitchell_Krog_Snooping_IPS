@@ -1,18 +1,17 @@
 {
     "currently_under_test": false,
-    "custom_pyfunceble_config": {},
     "days_until_next_test": 2,
-    "end_datetime": "2021-01-25T12:36:36.694659",
-    "end_epoch": 1611578196.694659,
-    "name": "Mitchell_Krog_Snooping_IPS",
-    "previous_end_datetime": "2021-01-25T01:00:41.380284",
-    "previous_end_epoch": 1611536441.380284,
-    "previous_start_datetime": "2021-01-25T01:00:19.409060",
-    "previous_start_epoch": 1611536419.40906,
+    "end_datetime": "2021-03-02T18:26:20.653061",
+    "end_epoch": 1614705980.653061,
+    "name": "itchell_Krog_Snooping_IPS_master",
+    "previous_end_datetime": "2021-01-25T12:36:36.694659",
+    "previous_end_epoch": 1611574596.694659,
+    "previous_start_datetime": "2021-01-25T12:35:56.779653",
+    "previous_start_epoch": 1611574556.779653,
     "pyfunceble": {
         "config": {}
     },
     "raw_link": "",
-    "start_datetime": "2021-01-25T12:35:56.779653",
-    "start_epoch": 1611578156.779653
+    "start_datetime": "2021-03-02T18:26:18.669170",
+    "start_epoch": 1614705978.66917
 }
