@@ -5816,7 +5816,6 @@
         "noticeable.news"
     ],
     "nf": [
-        "amot.no",
         "arts.nf",
         "com.nf",
         "firm.nf",
@@ -8177,7 +8176,6 @@
         "az.us",
         "ca.us",
         "cc.ak.us",
-        "cc.al.us",
         "cc.ar.us",
         "cc.as.us",
         "cc.az.us",
@@ -8574,6 +8572,7 @@
     ],
     "zw": [
         "ac.zw",
+        "cc.al.us",
         "co.zw",
         "gov.zw",
         "mil.zw",
