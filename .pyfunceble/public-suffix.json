@@ -1001,7 +1001,6 @@
         "cn.com",
         "cns.joyent.com",
         "co.com",
-        "codeberg.page",
         "codespot.com",
         "compute-1.amazonaws.com",
         "compute.amazonaws.com",
@@ -3588,6 +3587,7 @@
         "matsuura.nagasaki.jp",
         "matsuyama.ehime.jp",
         "matsuzaki.shizuoka.jp",
+        "med.om",
         "meguro.tokyo.jp",
         "meiwa.gunma.jp",
         "meiwa.mie.jp",
@@ -4708,7 +4708,6 @@
         "kh"
     ],
     "ki": [
-        "bale.museum",
         "biz.ki",
         "com.ki",
         "edu.ki",
@@ -5145,7 +5144,6 @@
         "bale.museum",
         "baltimore.museum",
         "barcelona.museum",
-        "bardu.no",
         "baseball.museum",
         "basel.museum",
         "baths.museum",
@@ -7650,9 +7648,12 @@
         "vps.myjino.ru"
     ],
     "run": [
+        "build.run",
         "code.run",
+        "database.run",
         "development.run",
         "hs.run",
+        "migration.run",
         "onporter.run",
         "ravendb.run",
         "repl.run",
