@@ -2183,7 +2183,8 @@
         "or.id",
         "ponpes.id",
         "rss.my.id",
-        "sch.id"
+        "sch.id",
+        "web.id"
     ],
     "ie": [
         "blogspot.ie",
@@ -2821,7 +2822,6 @@
         "vs.it",
         "vt.it",
         "vv.it",
-        "web.id",
         "xn--balsan-sdtirol-nsb.it",
         "xn--bozen-sdtirol-2ob.it",
         "xn--bulsan-sdtirol-nsb.it",
@@ -8048,7 +8048,6 @@
         "navoi.su",
         "north-kazakhstan.su",
         "nov.su",
-        "obninsk.su",
         "penza.su",
         "pokrovsk.su",
         "sochi.su",
@@ -8409,6 +8408,7 @@
         "nh-serv.co.uk",
         "nhs.uk",
         "no-ip.co.uk",
+        "obninsk.su",
         "org.uk",
         "plc.uk",
         "police.uk",
