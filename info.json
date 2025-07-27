@@ -1,17 +1,17 @@
 {
     "currently_under_test": false,
     "days_until_next_test": 2,
-    "end_datetime": "2025-07-26T10:46:49.937968",
-    "end_epoch": 1753526809.937968,
+    "end_datetime": "2025-07-27T09:33:40.030384",
+    "end_epoch": 1753608820.030384,
     "name": "Mitchell_Krog_Snooping_IPS",
-    "previous_end_datetime": "2025-07-26T02:47:08.318012",
-    "previous_end_epoch": 1753498028.318012,
-    "previous_start_datetime": "2025-07-26T02:46:35.216200",
-    "previous_start_epoch": 1753497995.2162,
+    "previous_end_datetime": "2025-07-26T10:46:49.937968",
+    "previous_end_epoch": 1753526809.937968,
+    "previous_start_datetime": "2025-07-26T10:46:48.361164",
+    "previous_start_epoch": 1753526808.361164,
     "pyfunceble": {
         "config": {}
     },
     "raw_link": "",
-    "start_datetime": "2025-07-26T10:46:48.361164",
-    "start_epoch": 1753526808.361164
+    "start_datetime": "2025-07-27T09:33:07.310515",
+    "start_epoch": 1753608787.310515
 }
